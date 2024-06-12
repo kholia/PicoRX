@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "si5351module_fixed")(type "KiCad")(uri "/home/dhiru/Desktop/repos/PicoRX/PCB/Easy-uSDX-v2/si5351module_fixed.kicad_sym")(options "")(descr ""))
+)

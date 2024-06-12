@@ -1,0 +1,47 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10n,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,109.29,-60.92,90.0,top
+C11,470p,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,118.47,-83.5075,-90.0,top
+C12,470p,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,107.76,-88.4,180.0,top
+C13,100u,CP_Radial_D5.0mm_P2.50mm,125.15,-80.995113,90.0,top
+C14,100n,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,96.03,-86.8,180.0,top
+C15,100u,CP_Radial_D5.0mm_P2.50mm,122.82,-94.734888,-90.0,top
+C16,100n,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,121.1,-81.8375,-90.0,top
+C17,100n,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,126.85,-94.99,90.0,top
+C2,2.2u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,122.17,-59.1075,-90.0,top
+C3,100n,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,107.8925,-78.02,0.0,top
+C4,22n MKP,C_Rect_L7.0mm_W2.0mm_P5.00mm,102.0,-71.57,90.0,top
+C5,22n MKP,C_Rect_L7.0mm_W2.0mm_P5.00mm,99.6,-65.57,0.0,top
+C6,22n MKP,C_Rect_L7.0mm_W2.0mm_P5.00mm,116.65,-68.23,90.0,top
+C7,22n MKP,C_Rect_L7.0mm_W2.0mm_P5.00mm,102.0,-79.5,90.0,top
+C8,100u,CP_Radial_D5.0mm_P2.50mm,125.6,-74.0,90.0,top
+CC1,100n,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,113.2,-94.3,180.0,top
+CC2,100n,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,104.0,-91.5,90.0,top
+CD1,10u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,104.8,-84.7,90.0,top
+CD2,10u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,111.4,-85.0,0.0,bottom
+D1,SS34,D_SMA_Handsoldering,128.5,-66.3,180.0,top
+D2,1N4148,D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp,105.51137,-59.77,180.0,top
+D3,1N4148,D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp,105.514315,-62.75,0.0,top
+D4,5.6v,D_SMA,132.3,-71.8,90.0,top
+D5,3.6v,D_SMA,118.3,-90.7,-90.0,top
+F1,500mA,Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder,126.7,-62.3,0.0,top
+J1,I2C1,PinHeader_1x03_P2.54mm_Vertical,93.2,-78.815,0.0,top
+J2,DC 12v,PinHeader_1x02_P2.54mm_Vertical,125.4,-57.205,180.0,top
+J3,IQ,PinSocket_1x03_P2.54mm_Vertical,100.5,-92.44,0.0,top
+L1,47uH,L_1210_3225Metric_Pad1.42x2.65mm_HandSolder,113.0,-60.7,180.0,top
+R2,10k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,119.36,-59.125,90.0,top
+R3,10k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,116.77,-59.125,-90.0,top
+R4,100,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,107.595,-84.6,90.0,top
+R5,100,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,118.44,-78.36,90.0,top
+R6,100,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,110.07,-82.02,-90.0,top
+R7,100,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,105.82,-80.73,180.0,top
+R8,100k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,114.09,-87.47,-90.0,top
+R9,100k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,111.52,-87.46,-90.0,top
+RS1,100,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,113.1625,-91.774416,180.0,top
+RS2,100,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,107.8,-93.0,0.0,top
+RX1,SMA,SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount,109.24,-55.9825,90.0,top
+TX1,SMA,SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount,93.35,-70.4,180.0,top
+U1,SI5351Module,SI5351 Module,97.6,-76.26,90.0,top
+U2,SN74CB3T3253,SOIC-16_4.55x10.3mm_P1.27mm,109.565,-70.95,180.0,top
+U3,AMS1117-5.0,SOT-223-3_TabPin2,131.6,-80.0,-90.0,top
+U5,AMS1117-3.3,SOT-223-3_TabPin2,125.4,-88.25,180.0,top
+U6,LT6231,SO-8_3.9x4.9mm_P1.27mm,114.125,-81.15,-90.0,top
