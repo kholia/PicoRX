@@ -1,0 +1,38 @@
+Comment,Designator,Footprint,LCSC
+470p,"C11,C12",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C107177
+100k,"R8,R9",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,C17900
+100,"R4,R5,R6,R7,RS1,RS2",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,C17901
+10k,"R2,R3",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,C17902
+10n,C1,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C1846
+5.6v,D4,D_SMA,C20555
+100n,"C14,C16,C17,C3,CC1,CC2",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C24497
+SN74CB3T3253,U2,SOIC-16_4.55x10.3mm_P1.27mm,C2674609
+47uH,L1,L_1210_3225Metric_Pad1.42x2.65mm_HandSolder,C361668
+2.2u,C2,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C50254
+LT6231,U6,SO-8_3.9x4.9mm_P1.27mm,C580237
+AMS1117-3.3,U5,SOT-223-3_TabPin2,C6186
+AMS1117-5.0,U3,SOT-223-3_TabPin2,C6187
+SS34,D1,D_SMA_Handsoldering,C8678
+22n MKP,C5,C_Rect_L7.0mm_W2.0mm_P5.00mm,
+MountingHole_Pad,H4,MountingHole_3.2mm_M3_Pad_Via,
+IQ,J3,PinSocket_1x03_P2.54mm_Vertical,
+SI5351Module,U1,SI5351 Module,
+22n MKP,C7,C_Rect_L7.0mm_W2.0mm_P5.00mm,
+SMA,RX1,SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount,
+1N4148,D3,D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp,
+100u,C8,CP_Radial_D5.0mm_P2.50mm,
+MountingHole_Pad,H2,MountingHole_3.2mm_M3_Pad_Via,
+100u,C15,CP_Radial_D5.0mm_P2.50mm,
+I2C1,J1,PinHeader_1x03_P2.54mm_Vertical,
+22n MKP,C6,C_Rect_L7.0mm_W2.0mm_P5.00mm,
+SMA,TX1,SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount,
+MountingHole_Pad,H1,MountingHole_3.2mm_M3_Pad_Via,
+1N4148,D2,D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp,
+100u,C13,CP_Radial_D5.0mm_P2.50mm,
+DC 12v,J2,PinHeader_1x02_P2.54mm_Vertical,
+MountingHole_Pad,H3,MountingHole_3.2mm_M3_Pad_Via,
+22n MKP,C4,C_Rect_L7.0mm_W2.0mm_P5.00mm,
+500mA,F1,Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder,
+3.6v,D5,D_SOD-123,
+10u,CD1,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,
+10u,CD2,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,
